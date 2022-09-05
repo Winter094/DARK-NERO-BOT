@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '24106813542'
+global.REACT_NUMBER = '22571615640'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['24106813542'] //ur owner number
-global.ownername = "YARANUSTRAS😎😎 " //ur owner name
+global.vcardowner = ['22571615640'] //ur owner number
+global.ownername = " WINTER😎 " //ur owner name
 global.ytname = "YT: Nero" //ur yt chanel name
 global.socialm = "GitHub: ESSOYA" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['24106813542']
-global.ownertag = '24106813542' //ur tag number
-global.botname = '✫ ✫ ✫YARANOS✫ ✫ ✫' //ur bot name
+global.owner = ['22571615640']
+global.ownertag = '22571615640' //ur tag number
+global.botname = '✫ ✫ ✫DARK-WINTER-BOT✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/ESSOYA/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/ESSOYA/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/ESSOYA/DARK-NERO-BOT.git' //script link
 global.reactmoji = "👍" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "YARANUSTRAS" //ur sticker watermark author
+global.packname = "DARK-WINTER Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "WINTER" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -85,16 +85,16 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
+    success: 'Terminé ✓',
+    admin: 'Cette fonctionnalité est reservée aux administrateurs! 🇱🇰',
+    botAdmin: 'Le bot doit etre administrateur! 🇱🇰',
+    owner: 'Cette fonctionnalité est reservée à mon boss Winter! 🇱🇰',
     group: 'Feature Used Only For Groups! 🇱🇰',
     private: 'Features Used Only For Private Chat! 🇱🇰',
     bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
-    error: 'Error!!',
+    wait: 'En attente 🇱🇰',
+    linkm: 'où est le lien imbecile? 🇱🇰',
+    error: 'Erreur!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
